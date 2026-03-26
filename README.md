@@ -1,5 +1,5 @@
 # Castle Of Horrors
-**Collect weapons, fight enemies and escape the Castle Of Horrors!**
+**Collect weapons, fight enemies and escape the Castle Of Horrors!** This project was created as part of the FutureLearn course 'Object-oriented Programming in Python: Create Your Own Adventure Game'.
 
 ## Requirements
 Python 3.9 or better is required to play this game. This can be downloaded from `www.python.org/downloads/`. 
